@@ -59,14 +59,14 @@ Metals and components traded and their min and max availabilities.
 
 |       ITEM      |  MIN  |  MAX  |
 |:---------------:|:-----:|:-----:|
-|      Silver     |  2000 |  6000 |
-|    Components   |  500  |  2000 |
-| Adv. Components |   10  |   20  |
-|      Steel      |  2000 | 10000 |
-|     Plasteel    |  1000 |  4000 |
-|       Gold      |  1000 |  4000 |
-|     Uranium     |  1000 |  4000 |
-|       Gold      |  1000 |  4000 |
+|      Silver     |  1000 |  3000 |
+|    Components   |  250  |  1000 |
+| Adv. Components |   50  |   10  |
+|      Steel      |  1000 | 5000 |
+|     Plasteel    |  500 |  2000 |
+|       Gold      |  500 |  2000 |
+|     Uranium     |  500 |  2000 |
+|       Gold      |  500 |  2000 |
 
 ### Credits
 
