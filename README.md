@@ -61,7 +61,7 @@ Metals and components traded and their min and max availabilities.
 |:---------------:|:-----:|:-----:|
 |      Silver     |  1000 |  3000 |
 |    Components   |  250  |  1000 |
-| Adv. Components |   50  |   10  |
+| Adv. Components |   5  |   10  |
 |      Steel      |  1000 | 5000 |
 |     Plasteel    |  500 |  2000 |
 |       Gold      |  500 |  2000 |
