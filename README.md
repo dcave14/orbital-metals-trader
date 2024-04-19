@@ -73,3 +73,4 @@ Metals and components traded and their min and max availabilities.
 - **Created By** - [veech](https://github.com/veech)
 - **QA** - [maxmclau](https://github.com/maxmclau)
 - **Editor in Chief & Proofreader** - [tindleaj](https://github.com/tindleaj)
+- **UPDATED BY** - [Cavenaugh](https://github.com/dcave14)
